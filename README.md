@@ -11,3 +11,5 @@ I'm Belphy, a Computer Science (C.S.) undergraduate and a competitive programmin
 ```
 
 #
+![Lain](./lain.jpeg)
+
