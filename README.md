@@ -1,5 +1,5 @@
 ```md
-I'm Belphy, a Computer Science (C.S.) undergraduate and a competitive programming competitor
+I'm Belphy, a Computer Science (C.S.) undergraduate and a competitive programmer
 
 - 🇧🇷 I'm from Brasília, Brazil
 - 💻 My main programming language is C++
