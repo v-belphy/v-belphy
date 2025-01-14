@@ -12,5 +12,4 @@ About me:
 - 💡 I'm currently focused on learning more about GPU programming
 - 🏳️‍⚧️ Pronouns: she/they
 - 📮 You can reach me on my Discord at @im_belphy
-
 ```
