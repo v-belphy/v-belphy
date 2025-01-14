@@ -1,6 +1,8 @@
 ```md
 I'm Belphy, a Computer Science (C.S.) undergraduate and a Software Developer Engineer.
-I only share some personal and academic projects here on GitHub, so you won’t see much public activity from me here.
+
+I only share some personal and academic projects here on GitHub,
+so you won’t see much public activity from me here.
 
 About me:
 
