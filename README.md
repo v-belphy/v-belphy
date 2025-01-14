@@ -8,6 +8,5 @@ I'm Belphy, a Computer Science (C.S.) undergraduate and a Software Developer Eng
 - 🏳️‍⚧️ Pronouns: she/they
 - 📮 You can reach me on my Discord at @im_belphy
 
-I only share personal and academic projects on GitHub.
-All my professional work is hosted in private repositories, so my public activity here is quite limited.
+I only share some personal and academic projects here on GitHub, so you won’t see much public activity from me here.
 ```
