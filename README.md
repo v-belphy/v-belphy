@@ -10,6 +10,6 @@ About me:
 - 💻 My main programming language is C++
 - ❤️ I really like Competitive Programming
 - 💡 I'm currently focused on learning more about GPU programming
-- 🏳️‍⚧️ Pronouns: she/they
+- 🏳️‍⚧️ Pronouns: she/her
 - 📮 You can reach me on my Discord at @im_belphy
 ```
